@@ -1,5 +1,0 @@
-Y:/M2 MMMEF/S1/C++ training/ysk_lib/cmake-build-debug/CMakeFiles/ysk_integration.dir
-Y:/M2 MMMEF/S1/C++ training/ysk_lib/cmake-build-debug/CMakeFiles/main.dir
-Y:/M2 MMMEF/S1/C++ training/ysk_lib/cmake-build-debug/CMakeFiles/main2D.dir
-Y:/M2 MMMEF/S1/C++ training/ysk_lib/cmake-build-debug/CMakeFiles/edit_cache.dir
-Y:/M2 MMMEF/S1/C++ training/ysk_lib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
